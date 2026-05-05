@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+Secrets (.env, .env.local, .env.production, *.key, *.pem), IDE/Editors (.vscode/, .idea/, *.swp, *.swo, *~), 
+OS files (.DS_Store, Thumbs.db, desktop.ini), Node.js (node_modules/, .next/).
